@@ -1,0 +1,59 @@
+﻿  Cat.cpp
+C:\Users\mario\OneDrive\Documents\PROJECTS\SFML-Discovery\Cat.cpp(10,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\mario\OneDrive\Documents\PROJECTS\SFML-Discovery\Cat.cpp(43,37): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\mario\OneDrive\Documents\PROJECTS\SFML-Discovery\Cat.cpp(43,37): warning C4305:         with
+C:\Users\mario\OneDrive\Documents\PROJECTS\SFML-Discovery\Cat.cpp(43,37): warning C4305:         [
+C:\Users\mario\OneDrive\Documents\PROJECTS\SFML-Discovery\Cat.cpp(43,37): warning C4305:             T=float
+C:\Users\mario\OneDrive\Documents\PROJECTS\SFML-Discovery\Cat.cpp(43,37): warning C4305:         ]
+C:\Users\mario\OneDrive\Documents\PROJECTS\SFML-Discovery\Cat.cpp(43,32): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\mario\OneDrive\Documents\PROJECTS\SFML-Discovery\Cat.cpp(43,32): warning C4305:         with
+C:\Users\mario\OneDrive\Documents\PROJECTS\SFML-Discovery\Cat.cpp(43,32): warning C4305:         [
+C:\Users\mario\OneDrive\Documents\PROJECTS\SFML-Discovery\Cat.cpp(43,32): warning C4305:             T=float
+C:\Users\mario\OneDrive\Documents\PROJECTS\SFML-Discovery\Cat.cpp(43,32): warning C4305:         ]
+C:\Users\mario\OneDrive\Documents\PROJECTS\SFML-Discovery\Cat.cpp(65,15): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+C:\Users\mario\OneDrive\Documents\PROJECTS\SFML-Discovery\Cat.cpp(65,15): warning C4244:         with
+C:\Users\mario\OneDrive\Documents\PROJECTS\SFML-Discovery\Cat.cpp(65,15): warning C4244:         [
+C:\Users\mario\OneDrive\Documents\PROJECTS\SFML-Discovery\Cat.cpp(65,15): warning C4244:             T=int
+C:\Users\mario\OneDrive\Documents\PROJECTS\SFML-Discovery\Cat.cpp(65,15): warning C4244:         ]
+C:\Users\mario\OneDrive\Documents\PROJECTS\SFML-Discovery\Cat.cpp(66,15): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+C:\Users\mario\OneDrive\Documents\PROJECTS\SFML-Discovery\Cat.cpp(66,15): warning C4244:         with
+C:\Users\mario\OneDrive\Documents\PROJECTS\SFML-Discovery\Cat.cpp(66,15): warning C4244:         [
+C:\Users\mario\OneDrive\Documents\PROJECTS\SFML-Discovery\Cat.cpp(66,15): warning C4244:             T=int
+C:\Users\mario\OneDrive\Documents\PROJECTS\SFML-Discovery\Cat.cpp(66,15): warning C4244:         ]
+  Cursor.cpp
+C:\Users\mario\OneDrive\Documents\PROJECTS\SFML-Discovery\Cursor.cpp(15,40): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\mario\OneDrive\Documents\PROJECTS\SFML-Discovery\Cursor.cpp(15,40): warning C4305:         with
+C:\Users\mario\OneDrive\Documents\PROJECTS\SFML-Discovery\Cursor.cpp(15,40): warning C4305:         [
+C:\Users\mario\OneDrive\Documents\PROJECTS\SFML-Discovery\Cursor.cpp(15,40): warning C4305:             T=float
+C:\Users\mario\OneDrive\Documents\PROJECTS\SFML-Discovery\Cursor.cpp(15,40): warning C4305:         ]
+C:\Users\mario\OneDrive\Documents\PROJECTS\SFML-Discovery\Cursor.cpp(15,35): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\mario\OneDrive\Documents\PROJECTS\SFML-Discovery\Cursor.cpp(15,35): warning C4305:         with
+C:\Users\mario\OneDrive\Documents\PROJECTS\SFML-Discovery\Cursor.cpp(15,35): warning C4305:         [
+C:\Users\mario\OneDrive\Documents\PROJECTS\SFML-Discovery\Cursor.cpp(15,35): warning C4305:             T=float
+C:\Users\mario\OneDrive\Documents\PROJECTS\SFML-Discovery\Cursor.cpp(15,35): warning C4305:         ]
+C:\Users\mario\OneDrive\Documents\PROJECTS\SFML-Discovery\Cursor.cpp(21,61): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\mario\OneDrive\Documents\PROJECTS\SFML-Discovery\Cursor.cpp(21,61): warning C4244:         with
+C:\Users\mario\OneDrive\Documents\PROJECTS\SFML-Discovery\Cursor.cpp(21,61): warning C4244:         [
+C:\Users\mario\OneDrive\Documents\PROJECTS\SFML-Discovery\Cursor.cpp(21,61): warning C4244:             T=int
+C:\Users\mario\OneDrive\Documents\PROJECTS\SFML-Discovery\Cursor.cpp(21,61): warning C4244:         ]
+C:\Users\mario\OneDrive\Documents\PROJECTS\SFML-Discovery\Cursor.cpp(21,61): warning C4244:         and
+C:\Users\mario\OneDrive\Documents\PROJECTS\SFML-Discovery\Cursor.cpp(21,61): warning C4244:         [
+C:\Users\mario\OneDrive\Documents\PROJECTS\SFML-Discovery\Cursor.cpp(21,61): warning C4244:             T=float
+C:\Users\mario\OneDrive\Documents\PROJECTS\SFML-Discovery\Cursor.cpp(21,61): warning C4244:         ]
+C:\Users\mario\OneDrive\Documents\PROJECTS\SFML-Discovery\Cursor.cpp(21,49): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\mario\OneDrive\Documents\PROJECTS\SFML-Discovery\Cursor.cpp(21,49): warning C4244:         with
+C:\Users\mario\OneDrive\Documents\PROJECTS\SFML-Discovery\Cursor.cpp(21,49): warning C4244:         [
+C:\Users\mario\OneDrive\Documents\PROJECTS\SFML-Discovery\Cursor.cpp(21,49): warning C4244:             T=int
+C:\Users\mario\OneDrive\Documents\PROJECTS\SFML-Discovery\Cursor.cpp(21,49): warning C4244:         ]
+C:\Users\mario\OneDrive\Documents\PROJECTS\SFML-Discovery\Cursor.cpp(21,49): warning C4244:         and
+C:\Users\mario\OneDrive\Documents\PROJECTS\SFML-Discovery\Cursor.cpp(21,49): warning C4244:         [
+C:\Users\mario\OneDrive\Documents\PROJECTS\SFML-Discovery\Cursor.cpp(21,49): warning C4244:             T=float
+C:\Users\mario\OneDrive\Documents\PROJECTS\SFML-Discovery\Cursor.cpp(21,49): warning C4244:         ]
+  Game.cpp
+  SFML-Discovery.cpp
+  Text.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 185 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SFML-Discovery.vcxproj -> C:\Users\mario\OneDrive\Documents\PROJECTS\SFML-Discovery\x64\Release\SFML-Discovery.exe
